@@ -40,6 +40,7 @@ setup(
     install_requires=[
         'moto[server]',
         'wrapt',
-        'netifaces'
+        'netifaces',
+        'aiohttp'
     ],
 )
