@@ -38,7 +38,7 @@ setup(
     package_dir=_packages,
     packages=list(_packages.keys()),
     install_requires=[
-        'moto[server]>=1.3.4',
+        'moto[server]>=1.3.3',
         'wrapt',
         'netifaces',
         'aiohttp',
