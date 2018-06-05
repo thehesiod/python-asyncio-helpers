@@ -46,6 +46,6 @@ setup(
 
     dependency_links=[
         # until release with https://github.com/spulec/moto/pull/1611 + https://github.com/spulec/moto/commit/b5bdf6693c1ed615571b1099766c411600d3db10 is available
-        'git+git://github.com/spulec/moto.git@80929292584ee78affc07643d16fae6bb31b4014#egg=moto[server]-1.3.4',
+        'git+git://github.com/spulec/moto.git@80929292584ee78affc07643d16fae6bb31b4014#egg=moto-1.3.3',
     ]
 )
